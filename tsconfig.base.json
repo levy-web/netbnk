@@ -12,7 +12,8 @@
     "baseUrl": "./",
     "paths": {
       "buttons": ["libs/elements/layout/buttons/src/index.ts"],
-      "home": ["libs/features/pages/src/index.ts"]
+      "home": ["libs/features/pages/src/index.ts"],
+      "images": ["libs/elements/layout/images/src/index.ts"]
     }
   }
 }
