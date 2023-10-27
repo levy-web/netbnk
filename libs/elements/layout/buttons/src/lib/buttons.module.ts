@@ -6,5 +6,6 @@ import { SliderButtonComponent } from './slider-button/slider-button.component';
 @NgModule({
   imports: [CommonModule],
   declarations: [NormalButtonComponent, SliderButtonComponent],
+  exports: [NormalButtonComponent, SliderButtonComponent],
 })
 export class ButtonsModule {}
