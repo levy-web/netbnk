@@ -11,6 +11,7 @@
     "lib": ["ES2022", "dom"],
     "baseUrl": "./",
     "paths": {
+      "buttons": ["libs/elements/layout/buttons/src/index.ts"],
       "home": ["libs/features/pages/src/index.ts"]
     }
   }
