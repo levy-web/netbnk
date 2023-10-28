@@ -17,7 +17,8 @@
       "home": ["libs/features/pages/src/index.ts"],
       "image": ["libs/models/schema/ui/images/src/index.ts"],
       "images": ["libs/elements/layout/images/src/index.ts"],
-      "text": ["libs/elements/layout/texts/src/index.ts"]
+      "text": ["libs/elements/layout/texts/src/index.ts"],
+      "texts": ["libs/models/schema/ui/texts/src/index.ts"]
     }
   }
 }
