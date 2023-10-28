@@ -13,6 +13,7 @@
     "paths": {
       "button": ["libs/models/schema/ui/buttons/src/index.ts"],
       "buttons": ["libs/elements/layout/buttons/src/index.ts"],
+      "carousel": ["libs/elements/layout/carousel/src/index.ts"],
       "home": ["libs/features/pages/src/index.ts"],
       "image": ["libs/models/schema/ui/images/src/index.ts"],
       "images": ["libs/elements/layout/images/src/index.ts"]
